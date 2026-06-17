@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://raniaelzoghby9-alt.github.io/sitemap.xml
